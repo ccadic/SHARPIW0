@@ -12,6 +12,8 @@ The board also has 5 buttons you may also control via GPIO voltage detection (UP
 You can get a fully made board here: https://www.tindie.com/products/electronictrik/sharpiw0-a-rpi-zero-27-sharp-memory-display/ 
 It is also a good way to support opensource devices creators
 
+If you need PCB only: https://www.tindie.com/products/electronictrik/sharpiw0-rpi0w-27-sharp-display-pcb-only/
+
 
 **Extra GPIO available**
  
