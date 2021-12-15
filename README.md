@@ -9,6 +9,9 @@ The board also has 4 independently controlable LEDs you can switch on/off with c
 
 The board also has 5 buttons you may also control via GPIO voltage detection (UP/Down voltage detection).  You can use this board for gaming.
 
+You can get a fully made board here: https://www.tindie.com/products/electronictrik/sharpiw0-a-rpi-zero-27-sharp-memory-display/ 
+It is also a good way to support opensource devices creators
+
 
 **Extra GPIO available**
  
